@@ -15,8 +15,8 @@
  */
  
  /*
-*****************************************************************************************************
-*** ID                  : V00765211
+***************************************************************************************************
+*** ID                  : xxxxxxxxx
 *** Name                : Victoria Sahle
 *** Date                : February 3, 2014
 *** Program Name        : IntegerLinkedList.java
@@ -25,7 +25,7 @@
 *** Program Input       : -IntegerList.java
 ***			  -IntegerNode.java
 *** Program Output      : Report (passing of test cases 0-22(23 total)) to the console.
-*****************************************************************************************************
+***************************************************************************************************
 */
 
 public class IntegerLinkedList implements IntegerList

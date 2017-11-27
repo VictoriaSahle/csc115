@@ -1,7 +1,7 @@
 /*
 ***************************************************************************************************
 *** ID                  : xxxxxxxxx
-*** Name                : xxxxxxxxx
+*** Name                : Victoria Sahle
 *** Date                : January 22, 2014
 *** Program Name        : Complex2.java
 *** Program Description : Assignment 1: Part2: Tests the functionality of the created class by 
